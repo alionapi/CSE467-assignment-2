@@ -1,7 +1,7 @@
 # CSE467-assignment-2
 CSE467: Computer Security | Spring 2026 | PKI/TLS
 
-## Overview
+
 
 This project implements a simplified TLS interception system using OpenSSL. The system consists of a TLS client, an intercepting proxy, and a server, demonstrating how man-in-the-middle proxying operates and how it can affect end-to-end security guarantees.
 

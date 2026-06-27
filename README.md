@@ -2,7 +2,6 @@
 CSE467: Computer Security | Spring 2026 | PKI/TLS
 
 
-PKI and TLS Interception
 
 ## Overview
 

@@ -168,4 +168,3 @@ Generates certificates and certificate authorities used for testing.
 
 **Course:** CSE467 Computer Security
 **Semester:** Spring 2026
-**Institution:** UNIST
